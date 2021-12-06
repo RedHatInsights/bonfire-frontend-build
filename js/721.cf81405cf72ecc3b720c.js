@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkbonfire=self.webpackChunkbonfire||[]).push([[721],{6288:(e,n,a)=>{a.r(n),a.d(n,{default:()=>l});var p=a(5697),r=a.n(p),o=a(3264),s=a.n(o),c=function(e){return s().createElement("span",{className:"sample-component"}," ",e.children," ")};c.displayName="SampleComponent",c.propTypes={children:r().oneOfType([r().arrayOf(r().node),r().node])};const l=c}}]);
-//# sourceMappingURL=../sourcemaps/721.9e924b77695f0ad4cbe248203f5ca474.js.map

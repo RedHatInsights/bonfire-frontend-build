@@ -1,13 +1,13 @@
 {
   "app_name": "bonfire",
-  "src_hash": "e24d4a8da1814d354cb62a90b4a39be3abc59795",
+  "src_hash": "4ab6db8a7840e0441c79375ed2b7dd5882d48dbd",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.135.0","@patternfly/react-table@4.29.0"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components@3.3.3","@redhat-cloud-services/frontend-components-notifications@3.2.2","@redhat-cloud-services/frontend-components-utilities@3.2.4"],
   "travis": {
     "event_type": "push",
-    "build_number": "6",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/bonfire-frontend/builds/242806069"
+    "build_number": "25",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/bonfire-frontend/builds/242994275"
   }
 }
